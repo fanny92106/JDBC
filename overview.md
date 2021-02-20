@@ -8,11 +8,11 @@
 
 ## JDBC 架构: 
     
-    ![JDBC_structure](imagePool/JDBC_structure.png)
+![JDBC_structure](imagePool/JDBC_structure.png)
 
     - 面向应用的API: Java API, 抽象接口，供应用程序开发人员使用 (连接数据库，执行SQL语句，获得结果集)
     - 面向数据库的API: Java Driver API, 供开发商开发数据库驱动程序使用
 
 ## JDBC Steps:
 
-    ![JDBC_steps](imagePool/JDBC_steps.png)
+![JDBC_steps](imagePool/JDBC_steps.png)
